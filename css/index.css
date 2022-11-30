@@ -37,7 +37,7 @@ body {
   position: relative;
   background-size: cover;
   background-position: 50% 50%;
-  background-image: url("/images/heroWILDE.png");
+  background-image: url("https://github.com/AylaAbil/FINALPROJECT3/blob/main/images/heroWILDE.png?raw=true");
 }
 
 .hero-overlay {
