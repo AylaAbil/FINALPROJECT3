@@ -41,6 +41,7 @@ body {
 }
 
 .hero-overlay {
+  position: absolute;
   display: flex;
   color: #000000;
   justify-content: flex-end;
